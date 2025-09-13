@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "name": "Walid",
+    "title": "Concepteur developpeur d'applications",
+    "description": "Passionné par le développement web moderne, je crée des applications performantes avec React, Node.js et TypeScript.",
+    "linkedin": "https://www.linkedin.com/in/walid-b-77b378302/",
+    "github": "https://github.com/Walidd35",
+    "email": "walidbahij35@gmail.com"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "RustTaskManager",
+      "description": "RustTaskManager est un programme de commande pour gérer des tâches. Elle permet d'ajouter, afficher, marquer comme complètes et supprimer des tâches, tout en sauvegardant les données dans un fichier. Ce projet est une introduction à Rust, avec un focus sur la gestion de la mémoire, les structures et la manipulation de fichiers.",
+      "technologies": ["Rust"],
+      "image": "/images/ecommerce.png",
+      "github": "https://github.com/Walidd35/RustTaskManager"
+    },
+    {
+      "id": 2,
+      "title": "ToDoApp",
+      "description": "Application de gestion de tâches avec Node.js et Express. Elle permet aux utilisateurs de s'inscrire, se connecter et gérer des tâches (ajouter, modifier, supprimer, marquer comme complètes). L'authentification est gérée par JWT, et les mots de passe sont sécurisés avec bcrypt. Le projet utilise MySQL et Sequelize pour la gestion des données..",
+      "technologies": ["Node.js", "Express.js", "Sequelize", "MySQL"],
+      "image": "/images/dashboard.png",
+      "github": "https://github.com/Walidd35/ToDoApp"
+    },
+    {
+      "id": 3,
+      "title": "SocialNetwork-WorkUup",
+      "description": "Projet de réseau social permettant aux utilisateurs de publier des posts, commenter, et gérer leur profil. Authentification sécurisée avec JWT, gestion des rôles et des permissions, et support des fichiers",
+      "technologies": ["Docker Compose ", "JWT", "MySQL","Express.js","Node.js", "Jest"],
+      "image": "/images/api.png",
+      "github": "https://github.com/Walidd35/SocialNetwork-WorkUup"
+    }
+  ]
+}
